@@ -1,0 +1,9 @@
+CHANGED,D:\androidstudio\AsyncTaskDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\asynctaskdemo\R$menu$override.class
+CHANGED,D:\androidstudio\AsyncTaskDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\asynctaskdemo\R$id$override.class
+CHANGED,D:\androidstudio\AsyncTaskDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\asynctaskdemo\R$style$override.class
+CHANGED,D:\androidstudio\AsyncTaskDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\asynctaskdemo\R$override.class
+CHANGED,D:\androidstudio\AsyncTaskDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\asynctaskdemo\MainActivity$override.class
+CHANGED,D:\androidstudio\AsyncTaskDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\asynctaskdemo\R$layout$override.class
+CHANGED,D:\androidstudio\AsyncTaskDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\asynctaskdemo\MainActivity$ImageLoader$override.class
+CHANGED,D:\androidstudio\AsyncTaskDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,D:\androidstudio\AsyncTaskDemo\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\asynctaskdemo\R$string$override.class

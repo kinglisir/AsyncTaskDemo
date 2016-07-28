@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\androidstudio\\AsyncTaskDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressbar_horizontal_1.xml",
+        "source": "D:\\androidstudio\\AsyncTaskDemo\\app\\src\\main\\res\\drawable\\progressbar_horizontal_1.xml"
+    },
+    {
+        "merged": "D:\\androidstudio\\AsyncTaskDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_bg_shape.xml",
+        "source": "D:\\androidstudio\\AsyncTaskDemo\\app\\src\\main\\res\\drawable\\progress_bg_shape.xml"
+    },
+    {
+        "merged": "D:\\androidstudio\\AsyncTaskDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_down_shape.xml",
+        "source": "D:\\androidstudio\\AsyncTaskDemo\\app\\src\\main\\res\\drawable\\bt_down_shape.xml"
+    },
+    {
+        "merged": "D:\\androidstudio\\AsyncTaskDemo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bt_cancle_shape.xml",
+        "source": "D:\\androidstudio\\AsyncTaskDemo\\app\\src\\main\\res\\drawable\\bt_cancle_shape.xml"
+    }
+]
